@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "15205713327",
+    "project_id": "expo-auth-app-25d62",
+    "storage_bucket": "expo-auth-app-25d62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15205713327:android:2982a2ddd705496a6d5b5a",
+        "android_client_info": {
+          "package_name": "com.satyam.reactauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15205713327-v7ao2u47agg3dcusb1tagqlrrcnp7vvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyam.reactauth",
+            "certificate_hash": "02c119c4214625ffb132d1c81c33fe2990a8b8ee"
+          }
+        },
+        {
+          "client_id": "15205713327-jdpm5nfjqo8h12t0146iofe4etjtc7hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmoYLExD9a-nWuYMMd_f1WDj2aHhB-4q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15205713327-jdpm5nfjqo8h12t0146iofe4etjtc7hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15205713327-1kp5p4hqpmtc60qufplnk2k122kfj9r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.satyam.reactauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
