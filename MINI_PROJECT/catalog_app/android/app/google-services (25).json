@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535242589665",
+    "project_id": "catalog-app-d2526",
+    "storage_bucket": "catalog-app-d2526.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535242589665:android:442d1cfc45acf56f94fea0",
+        "android_client_info": {
+          "package_name": "com.example.catalog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKO0f2BjdrPQKAyukQI9RspsqYkzBhZcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
